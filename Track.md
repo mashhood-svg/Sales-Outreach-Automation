@@ -27,3 +27,26 @@ Explored Apollo and Instantly.
 Got access to Tony's Apify, Apollo, Instantly, Vapi, ElevenLabs
 
 Still waiting for access and knowledge base.
+
+---
+
+**Day 5 (24-04-2026):**
+
+Got ICP definitions, Agent Scripts and Knowledgebase
+
+Made one inbound agent on Vapi using script
+
+Still dont know from where to scrape the data (where does the client currently generates their leads from?)
+
+---
+
+**Day 6 (27-04-2026):**
+
+Made 2 outbound agents (mortgage broker and borrower) on Vapi
+
+---
+
+**Day 7 (28-04-2026):**
+
+Made 2 outbound agents (Investor and RIA) on Vapi
+Asked for a meeting till now no answer
