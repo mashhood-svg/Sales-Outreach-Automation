@@ -1,0 +1,49 @@
+Task 1: Pipeline Custimization 
+--> Update broker Relationship pipeline
+--> Previously there are only four stages, and we add 5 new stages and place in a right sequence order
+-->Current flow is: DNC -> First Touch -> Interested -> Follow Up -> No Answer -> Booked Appointment -> Not Interested -> Active Broker -> Blue Sheet
+
+
+
+Task 2: Tag Management
+-->We created or add 16 specific category tags
+-->These tags we added Broker, Borrower, Investor, RIA, Accredited Investor, Has Active Deal, Future Deal, Wants Info, Booked Appointment, Transfer Requested, Not Interested, Follow Up Later, Wrong Contact, Do Not Contact, AI Outbound Call, AI Inbound Call,
+
+Task 3: Calendar
+--> Skipped as there are only 3 members of the team in 1 sub account and 5 in other sub account
+--> One sub account has these calendars: Amber King's Personal Calendar, 1: Alliance Portfolio - Investor Relations, David Valenzuela's Personal Calendar, James Perry's Personal Calendar, Alliance Portfolio - Christine Kaplan, 2: Alliance Portfolio - Roy Hanson, Jade Kiedrowski's Personal Calendar
+--> Other sub account has these calendars: Zane Wilson's Personal Calendar, James Perry's Personal Calendar, Mario Ducret's Personal Calendar, Ruben Sanchez's Personal Calendar, David Valenzuela's Personal Calendar
+
+Task 4: Add team members
+--> Should I add these members in sub-accounts?
+
+Task 5: Email Infra Audit
+--> We check email services, currently account is on shared domain (send.lcmsgsndr.net). Not change anything in this
+
+Task 6: Check Existing Automation (Mini-documentation)
+
+Meeting Reminders
+Published (Active)
+1. DD Meeting - Reminders
+2. New Intro Meeting - Reminders
+
+New Leads - Online Intake
+Published (Active)
+1. Master Flow Exit)
+Draft (Ubactive)
+1. Inbound Leads - Master Flow
+
+Published (Active)
+1. AMF Package Link Clicked
+2. Assign to Roy
+3. Christine Reviewed
+4. RR assign to Christine and Roy
+5. Roy to Call List
+
+Draft (Inactive)
+1. Exact REI List - Cold Calling
+2. Long Term - Prospect Tool
+
+
+Task 7 and 8: Templates
+--> Templates should be given client
